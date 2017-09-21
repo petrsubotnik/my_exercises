@@ -56,3 +56,13 @@
 // const scale = (multiple) => {
 //   return lengths.map(el => el * multiple)
 // };
+
+////////////////////////////////////////////////////////
+
+// import { students,total } from './students';
+// console.log(students, total);
+
+////////////////////////////////////////////////////////
+
+import { add, multiply } from './calculator';
+console.log(multiply(3,5));
